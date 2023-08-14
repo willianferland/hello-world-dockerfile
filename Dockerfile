@@ -8,4 +8,4 @@ COPY . .
 
 RUN npm ci
 
-CMD ["npm", "run", "start", "/bin/bash"]
+CMD ["npm", "run", "start"]
